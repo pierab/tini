@@ -1,0 +1,92 @@
+.cabecera{
+	width: 100%;
+	height: 500px;
+	background-color: #FCCE09;
+	color: white;
+}
+nav{
+	font-size: 14px;
+	top: 15px;
+	position: relative;
+	left:750px;
+	color: white;
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+}
+
+.boton{
+	position: relative;
+	width: 120px;
+	height: 40px;
+	background-color: #FCBA43; 
+	border-radius: 6px;
+	text-align: left;
+	padding-top: 10px;
+	color: white;
+	padding-left: 4px;
+}
+li:hover{
+	color: black;
+}
+.boton:hover{
+	color-background: black;
+}
+.lab{
+	margin-top: 150px;
+	font-size: 40px;
+}
+.cuerpo{
+	width: 100%;
+	min-height: 600px;
+	background-color: #EAEAE9;
+	margin-bottom: 40px;
+}
+.ejemplo{
+	background-color: white;
+	text-align: center;
+	width: 400px;
+	height:470px;
+	margin-top: 12px;
+	padding: 0;
+}	
+.tres{
+	margin-top: 20px;
+}
+.bacon{
+	color: #CCCCCC;
+	text-align: left;
+	padding-left: 6px;
+}
+.boton1{
+	margin: auto;
+	margin-top: 10px;
+	width: 120px;
+	height: 20px;
+	background-color: #FCBA43; 
+	text-align: center;
+	padding-top: 1.5px;
+	color: white;
+	padding-left: 4px;
+}
+.ejem{
+	color: #868481;
+	padding-left: 6px;
+	text-align: left;
+}
+footer{
+	text-align: center;
+	background-color: #323230;
+	
+	color: white;
+	height: 100px;
+	padding-top: 20px;
+}
+
+span{
+	color: #2E80E9;
+}
+.piecito{
+	margin-top: 30px;
+}
